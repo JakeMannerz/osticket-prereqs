@@ -22,13 +22,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs through Azure
+- Remote Desktop into the VM
+
 
 <h2>Installation Steps</h2>
+- Install / Enable IIS in Windows WITHCGI and Common HTTP Features
+![image](https://github.com/user-attachments/assets/b7d50a1b-76c2-42c5-a6c8-573875829b2e)
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
