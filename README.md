@@ -232,3 +232,8 @@ Step 12: Test your osTicket log in credentials
 
 - Click on http://localhost/osTicket/scp under 'Your Staff Control Panel'
 - Enter log in credentials
+- Congrats, you have successfully logged into osTicket!
+
+
+![image](https://github.com/user-attachments/assets/b4f5bb98-8bd8-421c-add2-a2a16f117081)
+
