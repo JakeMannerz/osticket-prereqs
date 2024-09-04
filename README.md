@@ -63,7 +63,7 @@ Step 3: Open Remote Desktop Connection App
 - Log in with the credentials created during the virtual machine configuration process.
 - Select 'Yes' to connect to you VM
 
-![image](https://github.com/user-attachments/assets/10dc140d-ab93-44bd-b9a2-50f29655fe0e)
+![image](https://github.com/user-attachments/assets/6f1ab493-4ca6-45f9-9319-58f3aa00a222)
 
 ![image](https://github.com/user-attachments/assets/9fbe25f6-097d-4623-8589-590fb303a0a2)
 
@@ -181,13 +181,13 @@ Step 10: Rename ost-sampleconfig.php
 
 Step 11: Continue Setting up Osticket (click 'Continue' at the bottom
 
-- Help Desk Name: Tammy Help Desk
-- Email: tammy@helper.com (Receives email from customers)
-- Name: Tammy
-- Last name: Hooker
-- Email address: tammy@gmail.com (can be any mail address)
-- Username: tammyh
-- Password: Choose your ownn
+- Help Desk Name:  Choose your own
+- Email:  (Receives email from customers)
+- Name:  Choose your own
+- Last name:  Choose your own
+- Email address: (can be any mail address)
+- Username: Choose your own
+- Password: Choose your own
 - Download and install HeidiSQL
 - Open HeidiSQL will
 - Click 'New' at the bottom left,
@@ -201,9 +201,7 @@ Step 11: Continue Setting up Osticket (click 'Continue' at the bottom
   - Click 'Install Now!'
 
 
-![image](https://github.com/user-attachments/assets/194d4123-f66f-4bff-bee0-d7ab6a9485d6)
-
-![image](https://github.com/user-attachments/assets/5e9fb72a-f22e-4b14-a7bd-9f5e993f6a4c)
+![image](https://github.com/user-attachments/assets/1e52c0f1-e266-43aa-be20-b796e6c085c6)
 
 ![image](https://github.com/user-attachments/assets/0527d033-ae07-46f0-8af9-74754881a201)
 
@@ -235,5 +233,5 @@ Step 12: Test your osTicket log in credentials
 - Congrats, you have successfully logged into osTicket!
 
 
-![image](https://github.com/user-attachments/assets/b4f5bb98-8bd8-421c-add2-a2a16f117081)
+
 
