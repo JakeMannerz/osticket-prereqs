@@ -33,7 +33,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 Step 1: Create a resource group in Azure
 
-![image](https://github.com/user-attachments/assets/2aa40b7e-0854-4fc1-9a69-aafb2cdcdba3)
+![image](https://github.com/user-attachments/assets/216091ec-2923-4e84-a204-b290c150744a)
+
 
 
 
@@ -50,7 +51,8 @@ Step 2: Create a Windows 10 Pro Virtual Machine (VM)
 - Check the box for Licensing
 - Click Review + Create
 
-![image](https://github.com/user-attachments/assets/f1a077bc-ef3b-47dd-8a11-187f0bf5d15e)
+![image](https://github.com/user-attachments/assets/584e37d0-e7ce-4490-a22f-ded1f4c6e2b0)
+
 ![image](https://github.com/user-attachments/assets/c3705967-c33c-4180-8fee-6f644e997b69)
 ![image](https://github.com/user-attachments/assets/2c5edd52-9b04-47b8-ac6a-1509e27caf2f)
 
@@ -233,5 +235,6 @@ Step 12: Test your osTicket log in credentials
 - Congrats, you have successfully logged into osTicket!
 
 
+![image](https://github.com/user-attachments/assets/3df7dadb-2b48-4a5c-bac4-76a0769ac67e)
 
 
